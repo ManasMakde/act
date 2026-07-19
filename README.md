@@ -1,4 +1,8 @@
 # 🎭 Act Pattern
+![Status: Alpha](https://img.shields.io/badge/status-alpha-orange)	 
+![License](https://img.shields.io/github/license/ManasMakde/act?style=flat&color=yellow)  
+
+
 A game programming pattern for creating and managing complex behaviors with parallelism at its core.
 
 > ## ⚙️ Game Engine Specific   
